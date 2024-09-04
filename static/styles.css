@@ -1,0 +1,20 @@
+/* styles.css */
+
+/* Aplica la fuente "Roboto Mono" a todo el documento */
+body {
+   
+    font-family: 'Roboto Mono', monospace;
+    
+    
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto Mono', monospace;
+    
+}
+
+p, a, li, span, div {
+    font-family: 'Roboto Mono', monospace;
+    color: #012f05;
+}
